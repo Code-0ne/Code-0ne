@@ -7,6 +7,8 @@
 - 🔧 Comfortable with HTML, CSS, Python, C and Git.
 - 🚀 Always curious and eager to learn new technologies.
 
+  ---
+
 
 ###🛠️ Tech I Use
 <br>
