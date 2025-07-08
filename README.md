@@ -8,6 +8,6 @@
 - 🚀 Always curious and eager to learn new technologies.
 
 
-##🛠️ Tech I Use
+###🛠️ Tech I Use
 <br>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=js,html,css,py,arduino,c)](https://skillicons.dev)
