@@ -7,4 +7,6 @@
 - 🚀 Always curious and eager to learn new technologies.
 
 ##🛠️ Tech I Use
-<img src="https://skillicons.dev/icons?i=python,html,css,arduino,c" alt="Tech Stack" />
+
+<img src="https://skillicons.dev/icons?
+ i=python,html,css,arduino,c" alt="Tech Stack" />
