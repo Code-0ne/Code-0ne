@@ -12,4 +12,4 @@
 
 ### 🛠️ Tech I Use
 <br>
-[![](https://skillicons.dev/icons?i=js,html,css,py,arduino,c)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=js,html,css,py,arduino,c,flask)](https://skillicons.dev)
