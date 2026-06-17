@@ -1,15 +1,30 @@
-# Hi there, I'm Anushka Ghosh! 👋 
+# Hi there, I'm Anushka Ghosh! 👋
 
 
-## About Me
-- 🌱 I’m a second year B.Tech student in Computer Science and Engineering at **IEM, Salt Lake**.
-- 🌐 I am part of the **Google Development Group-IEM**.
-- 🔧 Comfortable with HTML, CSS, Python, C and Git.
-- 🚀 Always curious and eager to learn new technologies.
+## 🚀 About Me
 
-  ---
+- 🌱 3rd Year B.Tech Computer Science & Engineering Student at **IEM, Salt Lake**
+- 🌐 Part of the **Google Development Group-IEM**.
+- 🌐 Exploring Backend Development with Flask & FastAPI
+- 🚀 Always learning new technologies and building projects
 
+---
 
-### 🛠️ Tech I Use
-<br>
-[![](https://skillicons.dev/icons?i=js,html,css,py,arduino,c,flask)](https://skillicons.dev)
+## 🛠️ My Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,c,python,c++,html,css,javascript,flask,fastapi,mysql,postgresql,redis" />
+</p>
+
+---
+
+## 📫 Connect With Me
+
+<p align="left">
+<a href="https://github.com/Code-0ne">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+---
+
+⭐ "Consistency beats intensity."
